@@ -1,0 +1,72 @@
+Nexora 3D Mesh Dataset v1 Mini
+Attribution File
+
+This file lists attribution information for 3D mesh assets included in this dataset.
+
+--------------------------------------------------
+GENERAL NOTICE
+--------------------------------------------------
+
+All 3D meshes included in this dataset are sourced from creators and platforms
+that explicitly allow redistribution under open licenses.
+
+Licenses used:
+- Creative Commons Zero (CC0)
+- Creative Commons Attribution (CC-BY)
+
+CC0 assets are dedicated to the public domain.
+CC-BY assets require attribution, which is provided below.
+
+--------------------------------------------------
+CC0 ASSETS (Public Domain)
+--------------------------------------------------
+
+The following assets are licensed under Creative Commons Zero (CC0).
+Attribution is not required by the license, but sources are listed for transparency.
+
+Source Platforms:
+- Poly Haven (https://polyhaven.com/)
+- Other CC0-compliant sources with explicit public-domain dedication
+
+--------------------------------------------------
+CC-BY ASSETS (Attribution Required)
+--------------------------------------------------
+
+The following assets are licensed under Creative Commons Attribution (CC-BY).
+Attribution is required and preserved below.
+
+For each CC-BY asset, the following information is provided:
+- Asset name
+- Creator name
+- Source URL
+- License type
+
+Example format:
+
+Asset Name: Example Mesh
+Creator: Creator Name
+Source: https://example.com/mesh-link
+License: CC-BY 4.0
+
+--------------------------------------------------
+DATASET OWNERSHIP
+--------------------------------------------------
+
+This dataset is curated, structured, and distributed by:
+
+ArkDevelopmentLabs / ArkAiLab (ADL)
+
+Dataset creator:
+- JackMa
+
+The dataset structure, documentation, and metadata are licensed under the MIT License.
+
+--------------------------------------------------
+DISCLAIMER
+--------------------------------------------------
+
+All rights to individual 3D assets remain with their respective creators.
+This dataset does not claim ownership over third-party assets.
+
+If you are a creator and believe an asset has been included incorrectly,
+please contact the maintainers for prompt review and removal.
